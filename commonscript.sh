@@ -15,7 +15,7 @@ then
     echo "$info2"
     echo "$info1" > "$host.txt"
     echo "$info2" >> "$host.txt"
-elif [[ $os == "linux" ]];then
+elif [[ $osname == "linux" ]];then
     info1=$(sshpass -p "$password" ssh "$username@$host" "uname -a")
     info2=$(sshpass -p "$password" ssh "$username@$host" "lscpu")
     echo "$info1"
