@@ -1,0 +1,43 @@
+
+OS Info:
+BuildNumber  Caption                                    OSArchitecture  SerialNumber             Version     
+22621        Microsoft Windows 11 Home Single Language  64-bit          00327-35890-04074-AAOEM  10.0.22621  
+
+
+Net Card:
+Description                                 IPAddress                                      MACAddress         
+Microsoft Kernel Debug Network Adapter                                                                        
+Qualcomm QCA9377 802.11ac Wireless Adapter  {"192.168.1.26", "fe80::7b3b:a59a:15b5:860b"}  5C:3A:45:D7:B9:67  
+Realtek PCIe FE Family Controller                                                          C0:3E:BA:28:EC:D4  
+Microsoft Wi-Fi Direct Virtual Adapter                                                     5E:3A:45:D7:B9:67  
+WAN Miniport (SSTP)                                                                                           
+WAN Miniport (IKEv2)                                                                                          
+WAN Miniport (L2TP)                                                                                           
+WAN Miniport (PPTP)                                                                                           
+WAN Miniport (PPPOE)                                                                                          
+WAN Miniport (IP)                                                                          E4:C0:20:52:41:53  
+WAN Miniport (IPv6)                                                                        EA:BC:20:52:41:53  
+WAN Miniport (Network Monitor)                                                             F0:15:20:52:41:53  
+Microsoft Wi-Fi Direct Virtual Adapter                                                     6E:3A:45:D7:B9:67  
+VirtualBox Host-Only Ethernet Adapter       {"192.168.56.1", "fe80::6c2d:1605:11e3:d56f"}  0A:00:27:00:00:13  
+Bluetooth Device (Personal Area Network)                                                                      
+
+
+Disk Info:
+DeviceID  FileSystem  Size          VolumeName  
+C:        NTFS        235629703168  OS          
+D:        NTFS        570151661568  DATA        
+E:        NTFS        136314875904  General     
+F:        NTFS        167771107328  Vaibhav     
+G:        NTFS        125829115904  VirtualM    
+
+
+Memory Info:
+Capacity    Manufacturer  PartNumber        Speed  
+8589934592  Samsung       M471A1K43DB1-CTD  2667   
+
+
+CPU Info:
+MaxClockSpeed  Name                                       NumberOfCores  NumberOfLogicalProcessors  
+1190           Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz  4              8                          
+
